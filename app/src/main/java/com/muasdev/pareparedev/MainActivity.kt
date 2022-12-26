@@ -8,7 +8,17 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+
         //yusril
         Log.d("logTest","===Yusril===")
+ 
+
+
+
+        // ilham
+        // login-page branch
+
+        //Membuat Register
+
     }
 }
