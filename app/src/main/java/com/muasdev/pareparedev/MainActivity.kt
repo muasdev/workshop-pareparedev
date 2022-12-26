@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //yusril
-        println("===Yusril===")
+        Log.d("logTest","===Yusril===")
     }
 }
